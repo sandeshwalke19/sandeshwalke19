@@ -1,4 +1,4 @@
-## Hi there 👋       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
+## Hi there 👋       
 
 <!--
 **sandeshwalke19/sandeshwalke19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
